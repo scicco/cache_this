@@ -10,6 +10,7 @@ This gem was heavily inspired by TTL feature of lru_redux gem: https://github.co
 - [Benchmarks](#benchmarks)
 - [Contributing](#contributing)
 - [Changelog](#changelog)
+- [License](#license)
 
 ## Installation
 
@@ -140,3 +141,8 @@ TODO
 ###version 0.0.1 - 08-Jun-2015
 
 - Initial version
+
+
+## License
+
+MIT
