@@ -136,6 +136,10 @@ TODO
 
 ###version 0.0.2 - 15-Jun-2015
 
+- fix ruby version
+
+###version 0.0.2 - 15-Jun-2015
+
 - fix dependency version
 
 ###version 0.0.1 - 08-Jun-2015
