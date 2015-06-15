@@ -16,9 +16,9 @@ module Cache
     def get_or_set(name, timeout = nil, value = nil, &block)
       cached_value = get_value(name, timeout, value, &block)
       cached_value ||= value
-      set_value(name, cached_value, &block) if cached_value.nil? or expired?(name)
+      set_value(name, cached_value, &block) if expired?(name)
       add_expiration(name, timeout) if expired?(name)
-      value
+      get(name)
     end
 
     def get(name)
