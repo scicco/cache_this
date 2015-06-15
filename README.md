@@ -134,7 +134,11 @@ TODO
 
 ## Changelog
 
-###version 0.0.2 - 15-Jun-2015
+###version 0.0.4 - 15-Jun-2015
+
+- fix get_or_set error
+
+###version 0.0.3 - 15-Jun-2015
 
 - fix ruby version
 
