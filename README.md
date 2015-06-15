@@ -131,7 +131,7 @@ TODO
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-## Changlog
+## Changelog
 
 ###version 0.0.2 - 15-Jun-2015
 
