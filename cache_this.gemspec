@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'cache_this'
-  s.version     = '0.0.2'
+  s.version     = '0.0.3'
   s.date        = '2015-06-15'
   s.summary     = 'Cache with element level time expiration'
   s.description = 'This gems allow setting individual expiration date for each cache element'
